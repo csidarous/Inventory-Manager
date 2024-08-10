@@ -34,4 +34,4 @@ You can view a live demo of the Inventory Manager website [here](https://invento
 ## Contact
 For any questions or feedback, please reach out to:
 
-- **Email**: [your-email@example.com](sidarousca@gmail.com)
+- **Email**: [sidarousca@gmail.com](sidarousca@gmail.com)
